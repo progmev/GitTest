@@ -18,8 +18,6 @@ class ViewController: UIViewController {
         print("3")
         print("4")
         print("9")
-        print("10")
-        print("8")
     }
 }
 
